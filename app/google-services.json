@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "740420861801",
+    "project_id": "graph-sensors"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740420861801:android:194bb42b46cdab37",
+        "android_client_info": {
+          "package_name": "com.vikrantchoudhary.graphsensors"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "740420861801-j2ncm1gqem6q74m8pg2uif1dn3jsnht8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vikrantchoudhary.graphsensors",
+            "certificate_hash": "E4A53081020FF81C402238EF4443D63681BDA6DE"
+          }
+        },
+        {
+          "client_id": "740420861801-1ri52idsq9fg0o4l85ouq06sn3mracqo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0TInJG3bmZm1gGsIHsPgA11RXhSr9KOM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

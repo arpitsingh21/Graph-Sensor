@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_observe"
+            android:icon="@drawable/ic_observe"
+            android:title="Observe" />
+        <item
+            android:id="@+id/nav_experiment"
+            android:icon="@drawable/ic_experiment"
+            android:title="Experiments" />
+
+        <item
+            android:id="@+id/nav_sensor"
+            android:icon="@drawable/ic_settings_input_antenna_black_48dp"
+            android:title="Sensors" />
+
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_website"
+                android:icon="@drawable/ic_website"
+                android:title="Website" />
+            <item
+                android:id="@+id/nav_about_us"
+                android:icon="@drawable/ic_about_us"
+                android:title="About Us" />
+            <item
+                android:id="@+id/nav_feedback"
+                android:icon="@drawable/ic_feedback"
+                android:title="Feedback" />
+            <item
+                android:id="@+id/nav_logout"
+                android:icon="@drawable/ic_logout"
+                android:title="Logout" />
+        </menu>
+    </item>
+</menu>
